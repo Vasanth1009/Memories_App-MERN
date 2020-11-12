@@ -1,5 +1,5 @@
 # Memories_App
 
-###Create your memory and share it
+#### Create your memory and share it
 
-###### https://memories-noter.netlify.app/
+### https://memories-noter.netlify.app/
